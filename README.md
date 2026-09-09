@@ -170,7 +170,6 @@ The application provides an interface through which the user can send commands t
 
 ![Robot Control Application](image/Picture1.png)
 
-You can replace the image path above with the actual location of your application screenshot.
 
 ---
 
@@ -375,7 +374,7 @@ The voltage measurement provides a quick indication of the current power conditi
 The project includes a dedicated **control box** containing the main electronics responsible for controlling the robotic system.
 
 The control box contains the main embedded controller and the supporting electronic circuitry.
-
+![control box ](image/P2.jpeg)
 ### Main Controller
 
 **Arduino Nano**
