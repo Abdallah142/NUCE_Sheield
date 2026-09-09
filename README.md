@@ -889,7 +889,8 @@ The system should be tested across multiple categories:
 ## Source Code
 
 ```text
-[ADD SOURCE CODE URL HERE]
+<img width="1500" height="844" alt="image" src="https://github.com/user-attachments/assets/1b2d711c-a7d2-4c58-a90e-bae7447c51f3" />
+
 ```
 
 ## PCB Design Files
@@ -1000,6 +1001,7 @@ Possible future improvements include:
 * Autonomous task planning
 
 ---
+
 
 # 👨‍💻 Project Development
 
