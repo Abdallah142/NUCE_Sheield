@@ -820,36 +820,18 @@ The system should be tested across multiple categories:
 ## Complete System
 ![Complete System](image/P3.jpeg)
 
-## Control Box
 
-```text
-![Control Box](images/control-box.jpg)
-```
 
-## Robotic Arms
 
-```text
-![Two Robotic Arms](images/robotic-arms.jpg)
-```
 
-## AI Detection
+## AI Camra (ESP32-CAM)
+![access point](image/p4.jpeg)
+![ip real time video](image/p5.jpeg)
 
-```text
-![AI Object Detection](images/ai-detection.jpg)
-```
 
-## Application
-
-```text
-![Control Application](images/application.png)
-```
 
 ## PCB
-
-```text
-![Custom PCB](images/pcb.jpg)
-```
-
+![PCB](image/image.png)
 ---
 
 # 🎥 Demo
@@ -1068,3 +1050,4 @@ Electronics
 ```
 
 **Built with AI, Robotics, Embedded Systems, Electronics, and Engineering. 🤖🧠⚙️**
+Made by[Adallah^-^]
