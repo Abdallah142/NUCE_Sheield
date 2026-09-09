@@ -819,11 +819,7 @@ The system should be tested across multiple categories:
 
 ## Complete System
 
-> Add your main project image here.
-
-```text
-![Complete Robotic System](images/project.jpg)
-```
+![Complete System](image.png)
 
 ## Control Box
 
