@@ -818,8 +818,7 @@ The system should be tested across multiple categories:
 # 📷 Project Images
 
 ## Complete System
-
-![Complete System](image.png)
+![Complete System](image/P3.jpeg)
 
 ## Control Box
 
