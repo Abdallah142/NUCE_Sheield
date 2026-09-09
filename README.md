@@ -168,11 +168,7 @@ The application provides an interface through which the user can send commands t
 
 ### 📱 Application Preview
 
-> image/Picture1.png
-
-```text
-![Robot Control Application](images/application.png)
-```
+![Robot Control Application](image/Picture1.png)
 
 You can replace the image path above with the actual location of your application screenshot.
 
