@@ -833,7 +833,8 @@ The system should be tested across multiple categories:
 ## PCB
 ![PCB](image/image.png)
 ---
-
+## The Gloves
+![The Gloves](image/Picture4.jpg)
 # 🎥 Demo
 
 > Add your project demonstration video here.
