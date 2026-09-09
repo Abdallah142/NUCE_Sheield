@@ -168,7 +168,7 @@ The application provides an interface through which the user can send commands t
 
 ### 📱 Application Preview
 
-> **Add your application screenshot here**
+> **image/Picture1.png**
 
 ```text
 ![Robot Control Application](images/application.png)
